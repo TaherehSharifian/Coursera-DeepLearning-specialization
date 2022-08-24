@@ -1,3 +1,5 @@
+![DL Certificate](/deep-learning-specialization-certificate.png?raw=true "deep learning specialization certificate")
+
 # Coursera-DeeplLearning-specialization
 DeepLearning.AI: DeepLearning Specialization by Andrew NG
 
