@@ -29,4 +29,4 @@ Course 5 - Sequence Models
 
 [Course 4](https://www.coursera.org/account/accomplishments/certificate/ZGXE28JRJHD9)
 
-[Course 5](https://www.coursera.org/account/accomplishments/certificate/37HJJB9EH4PB0
+[Course 5](https://www.coursera.org/account/accomplishments/certificate/37HJJB9EH4PB0)
